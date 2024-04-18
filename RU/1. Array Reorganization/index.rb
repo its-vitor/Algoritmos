@@ -1,0 +1,2 @@
+def scissors(array)
+end
