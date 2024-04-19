@@ -1,2 +1,3 @@
-def scissors(array)
+def scissors(arr: array)
+  arr.slice()
 end
